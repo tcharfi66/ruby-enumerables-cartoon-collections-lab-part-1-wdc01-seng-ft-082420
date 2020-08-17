@@ -5,8 +5,8 @@ def greet_characters(array)
   
   
   
-  array.each do |num|
-    
+  array.each do |element|
+    puts element  
   end
   
 end
